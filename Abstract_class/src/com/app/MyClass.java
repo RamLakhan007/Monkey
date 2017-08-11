@@ -3,6 +3,7 @@ package com.app;
 public class MyClass {
      void calculate(double x){
     	 System.out.println("square="+(x*x));
+    	 kkkkkkkkkkkkkkkkkkkkkkkk
      }
 }
 class Common{
